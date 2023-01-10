@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<br>
+
 ## ✔️ Tecnologias
 
 [![Top Langs](https://github-readme-stats-pedrolgr.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
